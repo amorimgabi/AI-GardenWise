@@ -8,10 +8,6 @@ Main structure of the chatbot:
  - Personalized advice
  - Goal setting
  - Recommendations
-
-![image](https://github.com/user-attachments/assets/252c0b9f-07d5-4602-baf8-5da8983502cf)
-
-
    
 # Example of a prompt response BEFORE finetuning with the Databricks Dolly 15K Dataset:
 
