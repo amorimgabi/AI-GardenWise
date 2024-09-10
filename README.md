@@ -9,7 +9,7 @@ Main structure of the chatbot:
  - Goal setting
  - Recommendations
    
-# Example of a prompt response BEFORE finetuning with Dollydatbricks-15k dataset:
+# Example of a prompt response BEFORE finetuning with the Databricks Dolly 15K Dataset:
 
 Instruction:
 What can I do to find a balance between personal life and work?
@@ -24,7 +24,7 @@ I think you should have enough energy to do everything. You can't work if you do
 I think you can find a balance between personal life and work.
 I think you can do it.
 
-# Example AFTER finetuning with Dollydatbricks-15k dataset:
+# Example AFTER finetuning with the Databricks Dolly 15K Dataset:
 
 Instruction:
 What can I do to find a balance between personal life and work?
