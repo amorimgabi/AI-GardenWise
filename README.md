@@ -89,8 +89,8 @@ gemma_lm.fit(data_list, epochs=1, batch_size=1)
 
 The fine-tuned model can be downloaded at Kaggle:
 
-Model card - 
-![image](https://github.com/user-attachments/assets/06d4f92e-acfd-4dbe-85bf-fd47ead77cfa)
+[AI Garden Wise Model Weights](https://www.kaggle.com/models/gabriellaamorim/ai_gardenwise_weights)
+
 
 ## Contributions
 
